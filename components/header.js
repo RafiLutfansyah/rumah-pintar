@@ -37,9 +37,9 @@ export default function () {
                 </ul>
                 <ul className="social-icons lab-ul d-flex">
                   <li>
-                    <a href="https://www.instagram.com/rumahpintar.tangerangraya" target="_blank">
+                    <Link href="https://www.instagram.com/rumahpintar.tangerangraya" target="_blank">
                       <i className="fab fa-instagram" />
-                    </a>
+                    </Link>
                   </li>
                   <li>
                     <Link href="https://wa.me/6287780287810" target="_blank">
