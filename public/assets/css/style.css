@@ -1039,7 +1039,7 @@ img {
 }
 
 .qoute-section {
-  background-image: url(../images/qoute/bg.jpg);
+  /* background-image: url(../images/qoute/bg.jpg); */
   background-position: center;
   background-size: cover;
   position: relative;
